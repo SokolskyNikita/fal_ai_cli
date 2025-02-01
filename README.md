@@ -1,4 +1,4 @@
-# Fal AI Flux Image Generator
+# Fal AI Flux Image Generator (CLI edition)
 
 A command-line tool for generating images using the Fal AI Flux API. Only Pro and Ultra models are supported for now.
 
